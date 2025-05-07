@@ -116,7 +116,7 @@ footer {
 .depoimentos img {
     width: 100px;
     border-radius: 55px;
-    border: 5px solid #bb11dd;
+    border: 5px solid #8111dd;
 }
 
 .depoimentos .descricao {
@@ -126,7 +126,7 @@ footer {
 }
 
 .sobre {
-    background: url('img/empresa.jpg') 50% / cover no-repeat fixed;
+    background: url('img/empresa.png') 50% / cover no-repeat fixed;
 }
 
 .sobre .texto {
